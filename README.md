@@ -7,4 +7,4 @@
 * Explore pro/cons to _frameworks_
 
 ## Citations
-* [Favicon Generator](https://favicon.io/)
+* List your citations here
