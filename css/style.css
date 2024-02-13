@@ -5,15 +5,5 @@
 }
 
 body {
-  display: grid;
-  justify-content: center;
-  align-content: center;
-  height: 100vh;
+  font-family: 'Tanker', sans-serif;
 }
-
-/* Layout  */
-main {
-  width: 1194px;
-  height: 834px;
-}
-
