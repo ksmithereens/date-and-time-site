@@ -1,8 +1,8 @@
 /* Diagnostic */
 
-* {
+/* * {
   outline: 1px dotted rgb(0, 0, 0);
-}
+} */
 
 body {
   font-family: 'Montserrat', sans-serif;
@@ -33,4 +33,9 @@ main {
 /* Time */
 .time {
   font-size: 10rem;
+}
+
+button {
+  background: white;
+  border-radius: 5px;
 }
