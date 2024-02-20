@@ -5,18 +5,25 @@
 }
 
 body {
-  font-family: 'Tanker', sans-serif;
-  font-size: 8rem;
-
+  font-family: 'Montserrat', sans-serif;
+  transition: background .5s;
+  
 }
 
+/* dark mode */
+.dark {
+  background: darkgrey;
+  color: whitesmoke;
+}
+
+
+/* Clock */
 main {
   display: flex;
   justify-content: center;
   align-items: center;
-  
   flex-direction: column;
-  
   height: 100vh;
-
+  font-size: 5rem;
+  
 }
