@@ -1,19 +1,21 @@
 /* Diagnostic */
 
 * {
-  outline: 1px dotted darkgray;
+  outline: 1px dotted rgb(0, 0, 0);
 }
 
 body {
   font-family: 'Montserrat', sans-serif;
   transition: background .5s;
+  background: #FFE957;
+  color: #2A935C;
   
 }
 
 /* dark mode */
 .dark {
-  background: darkgrey;
-  color: whitesmoke;
+  background: #2A935C;
+  color: #FFE957;
 }
 
 
