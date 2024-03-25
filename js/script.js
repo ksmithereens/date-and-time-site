@@ -43,4 +43,16 @@ fetch(dataSource)
   body.insertAdjacentHTML( "afterbegin", template );
   
   
+})
+
+let tl1 = gsap.timeline();
+
+tl1.from(".time", {
+  opacity: 0,
+  delay: 1,
+  y: -1000
+})
+.from(".date", {
+  opacity: 0,
+  y: -1000
 });
